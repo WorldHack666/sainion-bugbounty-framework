@@ -34,7 +34,7 @@ Ensure the following tools are installed or auto-installed:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sainion-bugbounty-framework.git
+git clone https://github.com/WorldHack666/sainion-bugbounty-framework.git
 cd sainion-bugbounty-framework
 chmod +x bug_bounty.py
 ```
